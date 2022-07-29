@@ -1,0 +1,33 @@
+.btn.btn-primary{
+    background-color: black;
+}
+
+
+.sizes{
+    position:absolute
+    top: 0;
+    left: 0;
+    width: 35px;
+    height: 35px;
+    font-size: .8em;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+    color: #1b1a20;
+    background-color: #ececec;
+    border: 1px solid transparent;
+}
+
+article{
+    position: absolute;
+    color: #ececec;
+    top: 10px;
+    right: 20px;
+    padding: 5px;
+    font-size: .6em;
+    background-color: #1b1a20;
+}
+
+.navbar-default .navbar-brand {
+    color: rgb(0, 0, 0);
+}
